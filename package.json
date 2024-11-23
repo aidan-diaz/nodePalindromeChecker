@@ -1,0 +1,19 @@
+{
+  "name": "nodepalindromechecker",
+  "version": "1.0.0",
+  "description": "- Fork and clone this repo\r - Create a new branch called answer\r - Checkout answer branch\r - Push to your fork\r - Issue a pull request\r - Your pull request description should contain the following:\r   - (1 to 5 no 3) I completed the challenge\r   - (1 to 5 no 3) I feel good about my code\r   - Anything specific on which you want feedback!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.8.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "querystring": "^0.2.1",
+    "url": "^0.11.4"
+  }
+}
